@@ -8,8 +8,12 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+!["Snake"](images/snake.png)
+
+!["Snake Name"](images/snake_name.png)
+
+
+
 
 
 ## Getting Started
